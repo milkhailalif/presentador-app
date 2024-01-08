@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Workflow state](https://github.com/kbariotis/presentador.app/workflows/Publish/badge.svg)
+![Workflow state](https://github.com/ct199535/presentador-app/workflows/Publish/badge.svg)
 
 </div>
 
